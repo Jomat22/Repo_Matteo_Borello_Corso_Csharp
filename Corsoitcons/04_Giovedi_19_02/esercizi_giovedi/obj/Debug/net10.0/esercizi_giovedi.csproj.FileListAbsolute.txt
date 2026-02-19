@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\bin\Debug\net10.0\esercizi_giovedi.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\bin\Debug\net10.0\esercizi_giovedi.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\bin\Debug\net10.0\esercizi_giovedi.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\bin\Debug\net10.0\esercizi_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\bin\Debug\net10.0\esercizi_giovedi.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\refint\esercizi_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\esercizi_giovedi.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\04_Giovedi_19_02\esercizi_giovedi\obj\Debug\net10.0\ref\esercizi_giovedi.dll

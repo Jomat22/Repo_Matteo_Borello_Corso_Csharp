@@ -3,7 +3,7 @@ dotnet run --project NomeProgetto
 
 using System;
 
-class arraycoll
+class newclass
 {
     public static void Main(String[] args)
     {
