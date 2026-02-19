@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "prova_controlli_flussi/1.0.0": {
+        "runtime": {
+          "prova_controlli_flussi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prova_controlli_flussi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

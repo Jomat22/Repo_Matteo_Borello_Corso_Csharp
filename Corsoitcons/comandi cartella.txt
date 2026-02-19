@@ -1,0 +1,12 @@
+dotnet new console -n NewProgetto
+dotnet run --project NomeProgetto
+
+using System;
+
+class arraycoll
+{
+    public static void Main(String[] args)
+    {
+        
+    }
+}

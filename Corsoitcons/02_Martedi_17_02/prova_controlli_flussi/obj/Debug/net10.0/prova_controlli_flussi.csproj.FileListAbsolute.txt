@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\bin\Debug\net10.0\prova_controlli_flussi.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\bin\Debug\net10.0\prova_controlli_flussi.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\bin\Debug\net10.0\prova_controlli_flussi.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\bin\Debug\net10.0\prova_controlli_flussi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\bin\Debug\net10.0\prova_controlli_flussi.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\refint\prova_controlli_flussi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\prova_controlli_flussi.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\prova_controlli_flussi\obj\Debug\net10.0\ref\prova_controlli_flussi.dll

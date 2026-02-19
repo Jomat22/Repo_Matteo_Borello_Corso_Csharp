@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\bin\Debug\net10.0\escomplesso.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\bin\Debug\net10.0\escomplesso.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\bin\Debug\net10.0\escomplesso.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\bin\Debug\net10.0\escomplesso.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\bin\Debug\net10.0\escomplesso.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\refint\escomplesso.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\escomplesso.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\escomplesso\obj\Debug\net10.0\ref\escomplesso.dll

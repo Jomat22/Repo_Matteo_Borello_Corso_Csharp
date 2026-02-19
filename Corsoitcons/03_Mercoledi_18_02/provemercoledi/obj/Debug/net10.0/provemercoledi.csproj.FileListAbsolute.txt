@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\bin\Debug\net10.0\provemercoledi.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\bin\Debug\net10.0\provemercoledi.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\bin\Debug\net10.0\provemercoledi.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\bin\Debug\net10.0\provemercoledi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\bin\Debug\net10.0\provemercoledi.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\refint\provemercoledi.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\provemercoledi.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\provemercoledi\obj\Debug\net10.0\ref\provemercoledi.dll

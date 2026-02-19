@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\bin\Debug\net10.0\Esercizi_17_02.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\bin\Debug\net10.0\Esercizi_17_02.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\bin\Debug\net10.0\Esercizi_17_02.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\bin\Debug\net10.0\Esercizi_17_02.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\bin\Debug\net10.0\Esercizi_17_02.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\refint\Esercizi_17_02.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\Esercizi_17_02.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\02_Martedi_17_02\Esercizi_17_02\obj\Debug\net10.0\ref\Esercizi_17_02.dll

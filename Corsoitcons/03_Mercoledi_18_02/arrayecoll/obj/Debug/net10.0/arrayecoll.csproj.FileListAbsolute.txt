@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\bin\Debug\net10.0\arrayecoll.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\bin\Debug\net10.0\arrayecoll.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\bin\Debug\net10.0\arrayecoll.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\bin\Debug\net10.0\arrayecoll.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\bin\Debug\net10.0\arrayecoll.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\refint\arrayecoll.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\arrayecoll.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\obj\Debug\net10.0\ref\arrayecoll.dll

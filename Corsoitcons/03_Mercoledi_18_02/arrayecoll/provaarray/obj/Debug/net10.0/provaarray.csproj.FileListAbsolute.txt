@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\bin\Debug\net10.0\provaarray.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\bin\Debug\net10.0\provaarray.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\bin\Debug\net10.0\provaarray.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\bin\Debug\net10.0\provaarray.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\bin\Debug\net10.0\provaarray.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\refint\provaarray.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\provaarray.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\03_Mercoledi_18_02\arrayecoll\provaarray\obj\Debug\net10.0\ref\provaarray.dll

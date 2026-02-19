@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\bin\Debug\net10.0\progetto_cicli.exe
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\bin\Debug\net10.0\progetto_cicli.deps.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\bin\Debug\net10.0\progetto_cicli.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\bin\Debug\net10.0\progetto_cicli.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\bin\Debug\net10.0\progetto_cicli.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\refint\progetto_cicli.dll
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.pdb
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\progetto_cicli.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Corsoitcons\progetto_cicli\obj\Debug\net10.0\ref\progetto_cicli.dll
