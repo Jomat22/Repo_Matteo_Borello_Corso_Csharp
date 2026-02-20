@@ -51,7 +51,6 @@ class newclass
 
         //esercizio metodi 3
 
-
 /*
 
         Console.WriteLine("Inserisci numero per fare calcolo");
