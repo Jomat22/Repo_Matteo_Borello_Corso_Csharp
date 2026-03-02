@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 public class Macchina
 {
@@ -128,4 +128,4 @@ class Program
             Console.ReadLine();
         }
     }
-}
+}*/
