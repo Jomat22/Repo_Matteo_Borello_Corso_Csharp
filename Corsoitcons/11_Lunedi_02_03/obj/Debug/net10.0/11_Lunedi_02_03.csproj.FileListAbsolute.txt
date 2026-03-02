@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\bin\Debug\net10.0\11_Lunedi_02_03.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\bin\Debug\net10.0\11_Lunedi_02_03.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\bin\Debug\net10.0\11_Lunedi_02_03.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\bin\Debug\net10.0\11_Lunedi_02_03.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\bin\Debug\net10.0\11_Lunedi_02_03.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\refint\11_Lunedi_02_03.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\11_Lunedi_02_03.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\11_Lunedi_02_03\obj\Debug\net10.0\ref\11_Lunedi_02_03.dll

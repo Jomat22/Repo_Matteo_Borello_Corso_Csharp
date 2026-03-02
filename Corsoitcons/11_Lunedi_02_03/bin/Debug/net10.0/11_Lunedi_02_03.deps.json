@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "11_Lunedi_02_03/1.0.0": {
+        "runtime": {
+          "11_Lunedi_02_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_Lunedi_02_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
