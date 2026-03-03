@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\bin\Debug\net10.0\ex_incap.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\bin\Debug\net10.0\ex_incap.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\bin\Debug\net10.0\ex_incap.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\bin\Debug\net10.0\ex_incap.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\bin\Debug\net10.0\ex_incap.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\refint\ex_incap.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ex_incap.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_incap\obj\Debug\net10.0\ref\ex_incap.dll

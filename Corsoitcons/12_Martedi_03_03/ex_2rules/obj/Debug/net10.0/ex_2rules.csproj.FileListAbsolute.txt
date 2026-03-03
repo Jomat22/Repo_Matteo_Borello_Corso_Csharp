@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\bin\Debug\net10.0\ex_2rules.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\bin\Debug\net10.0\ex_2rules.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\bin\Debug\net10.0\ex_2rules.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\bin\Debug\net10.0\ex_2rules.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\bin\Debug\net10.0\ex_2rules.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\refint\ex_2rules.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ex_2rules.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_2rules\obj\Debug\net10.0\ref\ex_2rules.dll

@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\bin\Debug\net10.0\ex_poli2.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\bin\Debug\net10.0\ex_poli2.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\bin\Debug\net10.0\ex_poli2.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\bin\Debug\net10.0\ex_poli2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\bin\Debug\net10.0\ex_poli2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\refint\ex_poli2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ex_poli2.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\ex_poli2\obj\Debug\net10.0\ref\ex_poli2.dll

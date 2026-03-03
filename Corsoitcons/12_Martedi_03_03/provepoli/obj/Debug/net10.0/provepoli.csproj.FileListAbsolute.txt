@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\bin\Debug\net10.0\provepoli.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\bin\Debug\net10.0\provepoli.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\bin\Debug\net10.0\provepoli.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\bin\Debug\net10.0\provepoli.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\bin\Debug\net10.0\provepoli.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\refint\provepoli.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\provepoli.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\12_Martedi_03_03\provepoli\obj\Debug\net10.0\ref\provepoli.dll
