@@ -1,4 +1,4 @@
-/*query festival 1*/
+/*query festival 1 Mostrare il numero di performance per artista. */
 
 SELECT 
     A.nome_darte, 
@@ -7,7 +7,7 @@ FROM Artista A
 LEFT JOIN Performance P ON A.id_artista = P.id_artista
 GROUP BY A.id_artista, A.nome_darte;
 
-/*query festival 2*/
+/*query festival 2 Mostrare il totale incasso per giorno del festival. */
 
 SELECT 
     B.data_validita AS giorno, 
@@ -16,7 +16,7 @@ FROM Acquisto AC
 JOIN Biglietto B ON AC.id_biglietto = B.id_biglietto
 GROUP BY B.data_validita;
 
-/*query festival 3*/
+/*query festival 3 Mostrare gli artisti che si sono esibiti su più di un palco. */
 
 SELECT 
     A.nome_darte
@@ -25,7 +25,7 @@ JOIN Performance P ON A.id_artista = P.id_artista
 GROUP BY A.id_artista, A.nome_darte
 HAVING COUNT(DISTINCT P.id_palco) > 1;
 
-/*query festival 4*/
+/*query festival 4 Mostrare il palco con il maggior numero di spettatori totali. */
 
 SELECT 
     PA.nome AS nome_palco, 
