@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\bin\Debug\net10.0\ex_astra3.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\bin\Debug\net10.0\ex_astra3.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\bin\Debug\net10.0\ex_astra3.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\bin\Debug\net10.0\ex_astra3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\bin\Debug\net10.0\ex_astra3.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\refint\ex_astra3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ex_astra3.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_astra3\obj\Debug\net10.0\ref\ex_astra3.dll

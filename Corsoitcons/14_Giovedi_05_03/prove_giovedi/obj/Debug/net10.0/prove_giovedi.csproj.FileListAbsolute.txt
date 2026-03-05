@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\bin\Debug\net10.0\prove_giovedi.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\bin\Debug\net10.0\prove_giovedi.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\bin\Debug\net10.0\prove_giovedi.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\bin\Debug\net10.0\prove_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\bin\Debug\net10.0\prove_giovedi.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\refint\prove_giovedi.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\prove_giovedi.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\prove_giovedi\obj\Debug\net10.0\ref\prove_giovedi.dll
