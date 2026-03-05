@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\bin\Debug\net10.0\ex_recap_finale.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\bin\Debug\net10.0\ex_recap_finale.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\bin\Debug\net10.0\ex_recap_finale.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\bin\Debug\net10.0\ex_recap_finale.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\bin\Debug\net10.0\ex_recap_finale.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\refint\ex_recap_finale.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ex_recap_finale.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\14_Giovedi_05_03\ex_recap_finale\obj\Debug\net10.0\ref\ex_recap_finale.dll
