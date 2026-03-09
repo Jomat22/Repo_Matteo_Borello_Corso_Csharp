@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\bin\Debug\net10.0\prove_fact.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\bin\Debug\net10.0\prove_fact.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\bin\Debug\net10.0\prove_fact.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\bin\Debug\net10.0\prove_fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\bin\Debug\net10.0\prove_fact.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\refint\prove_fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\prove_fact.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_fact\obj\Debug\net10.0\ref\prove_fact.dll
