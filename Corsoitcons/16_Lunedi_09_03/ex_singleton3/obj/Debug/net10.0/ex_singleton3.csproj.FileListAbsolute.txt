@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\bin\Debug\net10.0\ex_singleton3.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\bin\Debug\net10.0\ex_singleton3.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\bin\Debug\net10.0\ex_singleton3.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\bin\Debug\net10.0\ex_singleton3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\bin\Debug\net10.0\ex_singleton3.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\refint\ex_singleton3.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ex_singleton3.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\ex_singleton3\obj\Debug\net10.0\ref\ex_singleton3.dll

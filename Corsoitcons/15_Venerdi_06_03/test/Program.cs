@@ -63,7 +63,6 @@ public class Program
         
         Console.Write("Età: "); 
         int eta = int.Parse(Console.ReadLine());
-
         switch (tipo)
         {
             case "1":

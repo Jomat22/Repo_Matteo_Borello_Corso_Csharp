@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\bin\Debug\net10.0\prove_singleton.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\bin\Debug\net10.0\prove_singleton.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\bin\Debug\net10.0\prove_singleton.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\bin\Debug\net10.0\prove_singleton.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\bin\Debug\net10.0\prove_singleton.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\refint\prove_singleton.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\prove_singleton.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\16_Lunedi_09_03\prove_singleton\obj\Debug\net10.0\ref\prove_singleton.dll
