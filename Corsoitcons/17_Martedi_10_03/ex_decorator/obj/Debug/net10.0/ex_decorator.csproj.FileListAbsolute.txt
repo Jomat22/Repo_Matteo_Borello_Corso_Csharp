@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\bin\Debug\net10.0\ex_decorator.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\bin\Debug\net10.0\ex_decorator.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\bin\Debug\net10.0\ex_decorator.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\bin\Debug\net10.0\ex_decorator.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\bin\Debug\net10.0\ex_decorator.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\refint\ex_decorator.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ex_decorator.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_decorator\obj\Debug\net10.0\ref\ex_decorator.dll

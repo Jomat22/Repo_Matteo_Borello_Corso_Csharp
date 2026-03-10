@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\bin\Debug\net10.0\ex_2pattern.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\bin\Debug\net10.0\ex_2pattern.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\bin\Debug\net10.0\ex_2pattern.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\bin\Debug\net10.0\ex_2pattern.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\bin\Debug\net10.0\ex_2pattern.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\refint\ex_2pattern.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ex_2pattern.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_2pattern\obj\Debug\net10.0\ref\ex_2pattern.dll

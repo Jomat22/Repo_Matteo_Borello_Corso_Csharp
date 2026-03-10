@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\bin\Debug\net10.0\ex_observer2.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\bin\Debug\net10.0\ex_observer2.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\bin\Debug\net10.0\ex_observer2.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\bin\Debug\net10.0\ex_observer2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\bin\Debug\net10.0\ex_observer2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\refint\ex_observer2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ex_observer2.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\17_Martedi_10_03\ex_observer2\obj\Debug\net10.0\ref\ex_observer2.dll
