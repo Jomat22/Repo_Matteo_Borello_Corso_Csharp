@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\bin\Debug\net10.0\prove_strategy.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\bin\Debug\net10.0\prove_strategy.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\bin\Debug\net10.0\prove_strategy.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\bin\Debug\net10.0\prove_strategy.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\bin\Debug\net10.0\prove_strategy.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\refint\prove_strategy.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\prove_strategy.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\prove_strategy\obj\Debug\net10.0\ref\prove_strategy.dll

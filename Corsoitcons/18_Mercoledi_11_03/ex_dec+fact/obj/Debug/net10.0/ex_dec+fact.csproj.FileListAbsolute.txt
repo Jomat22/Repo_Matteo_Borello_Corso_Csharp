@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\bin\Debug\net10.0\ex_dec+fact.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\bin\Debug\net10.0\ex_dec+fact.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\bin\Debug\net10.0\ex_dec+fact.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\bin\Debug\net10.0\ex_dec+fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\bin\Debug\net10.0\ex_dec+fact.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\refint\ex_dec+fact.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ex_dec+fact.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_dec+fact\obj\Debug\net10.0\ref\ex_dec+fact.dll

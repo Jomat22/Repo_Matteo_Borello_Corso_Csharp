@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\bin\Debug\net10.0\ex_strategy2.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\bin\Debug\net10.0\ex_strategy2.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\bin\Debug\net10.0\ex_strategy2.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\bin\Debug\net10.0\ex_strategy2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\bin\Debug\net10.0\ex_strategy2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\refint\ex_strategy2.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ex_strategy2.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\18_Mercoledi_11_03\ex_strategy2\obj\Debug\net10.0\ref\ex_strategy2.dll
