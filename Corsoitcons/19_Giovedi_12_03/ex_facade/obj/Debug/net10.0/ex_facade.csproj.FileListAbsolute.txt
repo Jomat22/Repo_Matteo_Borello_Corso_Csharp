@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\bin\Debug\net10.0\ex_facade.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\bin\Debug\net10.0\ex_facade.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\bin\Debug\net10.0\ex_facade.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\bin\Debug\net10.0\ex_facade.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\bin\Debug\net10.0\ex_facade.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\refint\ex_facade.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ex_facade.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\19_Giovedi_12_03\ex_facade\obj\Debug\net10.0\ref\ex_facade.dll
