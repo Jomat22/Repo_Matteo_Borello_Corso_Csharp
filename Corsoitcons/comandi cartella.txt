@@ -10,3 +10,16 @@ class newclass
         
     }
 }
+
+dotnet add package MySql.Data //installa driver MySql
+
+Aggiungere i pacchetti al progetto:
+
+
+dotnet add package Pomelo.EntityFrameworkCore.MySql
+
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+
+dotnet add package Microsoft.EntityFrameworkCore.Tools

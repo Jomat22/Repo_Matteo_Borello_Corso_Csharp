@@ -1,0 +1,15 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\bin\Debug\net10.0\ex_DI.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\bin\Debug\net10.0\ex_DI.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\bin\Debug\net10.0\ex_DI.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\bin\Debug\net10.0\ex_DI.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\bin\Debug\net10.0\ex_DI.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.sourcelink.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\refint\ex_DI.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ex_DI.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Documenti\GitHub\Repo_Matteo_Borello_Corso\Corsoitcons\20_Martedi_17_03\ex_DI\obj\Debug\net10.0\ref\ex_DI.dll
